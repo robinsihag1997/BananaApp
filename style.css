@@ -15,7 +15,7 @@ body{
     gap: 2.8rem;
 }
 header{
-    background-color: yellow;
+    background-color:#f5e050;
     text-align: center;
     
 }
@@ -34,14 +34,14 @@ textarea{
     margin: 2rem 0;
 }
 button{
-    background-color: yellow;
+    background-color: #f5e050;
     padding: 15px 25px;
     font-weight: bold;
     margin-bottom: 1rem;
 }
 footer{
     /* border: 1px solid red; */
-    background-color: yellow;
+    background-color: #f5e050;
     padding-bottom:20px ;
 }
 .container{
@@ -55,4 +55,7 @@ h2{
 }
 .container-modify{
     text-align: left;
+}
+p{
+  line-height: 23px;
 }
